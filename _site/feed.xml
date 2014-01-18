@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jennifercooper.ca</title>
+    <description>Jennifer Cooper's personal website.</description>
+    <link>jennifercooper.ca</link>
+    <atom:link href="jennifercooper.ca/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Starting a Meetup</title>
+        <description>&lt;p&gt;On a whim, myself and a friend of mine (&lt;a href=&quot;http://twitter.com/meredithu&quot;&gt;@MeredithU&lt;/a&gt;) decided to co-organize a Meetup called &lt;a href=&quot;http://meetup.com/code-coffee-vancouver&quot;&gt;Code and Coffee(Vancouver)&lt;/a&gt;.  The idea is to come out once a month for an evening, and work on a personal project that you haven’t had a chance to get to. There are always problems to solve and ways to make the world more efficient. As developers, we all have ideas that we’d love to build, but many of us spend our time building things for other people (read: making a living).&lt;/p&gt;
+
+&lt;p&gt;Initially, we wanted the group’s mandate to be “NO ASSHOLES”. But Meredith more eloquently put it as “An upbeat positive attitude and zero tolerance for stereotypes”. &lt;/p&gt;
+
+&lt;p&gt;The hope is to create a gender neutral group of developers. In order to achieve this, we need to figure out a way to attract an equal ratio of women to men. We think that if we can achieve this goal, gender will become a non-issue during our events. Many other female devs will attest to the how depressing it is to walk into a tech Meetup and be the only woman. It just really, really sucks.&lt;/p&gt;
+
+&lt;p&gt;We chose to have our first Meetup at &lt;a href=&quot;http://wavescoffee.com/howe-howe-smithe&quot;&gt;Waves Coffee House&lt;/a&gt; in downtown Vancouver. When we were first conceptualizing the event, this seemed like the perfect place – relatively cheap, lots of treats, central location, free wifi etc.&lt;/p&gt;
+
+&lt;p&gt;As an organizational Meetup noob I didn’t foresee that within a week we would have nearly 130 developers in the group, and a full first meetup – maxed out at 30 people, with 15 on the waitlist.&lt;/p&gt;
+
+&lt;p&gt;In fact, we were so sure that “only a few people” would be interested that we asked the &lt;a href=&quot;http://www.meetup.com/Girl-Development&quot;&gt;Girl Development Meetup&lt;/a&gt; organizer (&lt;a href=&quot;http://twitter.com/sabaelhilo&quot;&gt;@SabaElHilo&lt;/a&gt;) to send our event out to the Girl Development Meetup group.  So we actually have 30 + 14 (from Girl Dev), and 15 on the waitlist.&lt;/p&gt;
+
+&lt;p&gt;I had originally imagined myself sitting comfortably around a table of 8, sipping a mocha. &lt;/p&gt;
+
+&lt;p&gt;Luckily for us, the people at Waves have been wonderfully accommodating. When I dropped the we-have-40-developers-coming-on-Tuesday bomb, the store manager didn’t seem swayed.  In fact, he offered to order us extra treats. Then he dropped the we-have-one-router wifi bomb on me… so, we&amp;rsquo;ll just going to see how that goes…&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re going to iterate on this. We’re going to collect lots of feedback from our members. We’re going to keep making mistakes and learning from them, with the goal of helping other developers (and ourselves) carve out development time for those ‘silly’ ideas that come to you in the shower.&lt;/p&gt;
+
+&lt;p&gt;JOIN US: &lt;a href=&quot;http://www.meetup.com/Code-Coffee-Vancouver/&quot;&gt;http://www.meetup.com/Code-Coffee-Vancouver/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Jan 2014 20:01:55 +0000</pubDate>
+        <link>jennifercooper.ca/2014/01/14/starting-a-meetup/</link>
+        <guid isPermaLink="true">jennifercooper.ca/2014/01/14/starting-a-meetup/</guid>
+      </item>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;p&gt;HELLO WORLD&lt;/p&gt;
+
+&lt;p&gt;I finally have a blog. Stop bugging me!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Dec 2013 20:27:31 +0000</pubDate>
+        <link>jennifercooper.ca/2013/12/10/hello-world/</link>
+        <guid isPermaLink="true">jennifercooper.ca/2013/12/10/hello-world/</guid>
+      </item>
+    
+  </channel>
+</rss>
