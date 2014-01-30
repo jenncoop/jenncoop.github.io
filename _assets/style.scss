@@ -160,7 +160,6 @@ hr {
 
 ul.posts {
   &, li { margin: 0; padding: 0; list-style: none; }
-  li { margin-bottom: 20px; }
   .datetime {
     @include inline-block;
     width: 130px;
@@ -170,6 +169,7 @@ ul.posts {
     font-size: 10px;
     text-align: right;
   }
+  margin-left: 20px;
 }
 
 
