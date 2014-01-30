@@ -18,7 +18,7 @@ In fact, we were so sure that “only a few people” would be interested that w
 
 I had originally imagined myself sitting comfortably around a table of 8, sipping a mocha. 
 
-Luckily for us, the people at Waves have been wonderfully accommodating. When I dropped the we-have-40-developers-coming-on-Tuesday bomb, the store manager didn’t seem swayed.  In fact, he offered to order us extra treats. Then he dropped the we-have-one-router wifi bomb on me… so, we'll just going to see how that goes…
+Luckily for us, the people at Waves have been wonderfully accommodating. When I dropped the we-have-40-developers-coming-on-Tuesday bomb, the store manager didn’t seem swayed.  In fact, he offered to order us extra treats. Then he dropped the we-have-one-router wifi bomb on me… so, we're just going to see how that goes…
 
 We're going to iterate on this. We’re going to collect lots of feedback from our members. We’re going to keep making mistakes and learning from them, with the goal of helping other developers (and ourselves) carve out development time for those ‘silly’ ideas that come to you in the shower.
 
