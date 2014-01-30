@@ -147,8 +147,7 @@ footer {
 
 a, .as-link {
   text-decoration: none;
-  color: #269;
-  line-height: 1.4em;
+  color: #222;
   display: inline-block;
   vertical-align: baseline;
   zoom: 1;
@@ -160,10 +159,17 @@ a, .as-link {
   -o-transition: color 0.3s;
   transition: color 0.3s; }
   a.main, a:hover, .as-link.main, .as-link:hover {
-    color: #1d5884;
-    background-image: url(/images/line.png);
+    font-family: "Open Sans", sans-serif !important;
+    color: #222;
     background-repeat: repeat-x;
     background-position: left bottom; }
+  a:hover {
+    text-shadow: -1px -1px 1px rgba(150, 150, 150, 0.4);
+    color: black !important;
+  }
+  a{
+    color: #259dff;
+  }
   a.big-button, .as-link.big-button {
     min-width: 30%;
     border-radius: 3px;
@@ -361,3 +367,7 @@ img {
   margin-left: -340px; }
 .paging .right {
   margin-left: 320px; }
+
+h2.header {
+  font: 100 30px "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
