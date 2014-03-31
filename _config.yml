@@ -12,8 +12,6 @@ links:
   - name:         Blog
     url:          http://jennifercooper.ca
     external:     true
-  - name:         Hire Me
-    url:          /hireme
   - name:         Email
     url:          mailto:cooper.jennl@gmail.com
     external:     true
