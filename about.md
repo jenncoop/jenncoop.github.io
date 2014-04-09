@@ -5,7 +5,9 @@ title: About
 
 Hey! I'm a software developer from Vancouver, Canada.
 
-I'm currently working as CTO at [bigmama.ca](http://bigmama.ca/), building out and maintaining our Ruby on Rails/Spree Commerce application (among other things like making coffee, and hi5-ing everyone).
+Currently, I'm taking a break from coding and reflecting on my experiences. I'll be back soon!
+
+I was previously the CTO at [bigmama.ca](http://bigmama.ca/), where the team and I built out and maintained our Ruby on Rails/Spree Commerce application.
 
 I co-organize the [Code and Coffee (Vancouver) Meetup](http://www.meetup.com/Code-Coffee-Vancouver/), which is meant to help developers carve out time to work on personal projects.
 
