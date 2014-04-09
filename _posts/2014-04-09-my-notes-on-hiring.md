@@ -6,13 +6,13 @@ date: 2014-04-09 10:53:00
 
 Disclaimer: I am NOT a self-proclaimed hiring expert.
 
-These are my notes so far on hiring. This list will likely change as I acquire knowledge and feedback from others, so feel free to [reach out](mailto:cooper.jennl@gmail.com) if you'd like to discuss.
+These are my notes so far based on my experience as both an interviewer and an interviewee. This list will likely change as I acquire knowledge and feedback from others, so feel free to [reach out](mailto:cooper.jennl@gmail.com) if you'd like to discuss.
 
 Hiring in the tech industry is one of those tricky things that I'll likely never fully understand.
 
 #### Here's the WHY: People are messy and complicated.
 
-My belief is that technical skill is important, but the following are WAY more important. Smart, passionate people can learn technology when given the chance.
+My belief is that technical skill is important, but the following items are WAY more important. Smart, passionate people can learn technology when given the chance.
 
 
 #### 1. Hire for empathy
@@ -32,7 +32,7 @@ This is something we did at BigMama, and it worked very well. People who weren't
 
 #### 4. Hire for humility
 
-+1 for a person who is able to legitimately say 'I don't know' in an interview. This response often leads to discussion and further revelation. Also, I usually start jumping up and down when I meet someone who's able to discuss their failures. I think this is indicative of the ability to reflect, which leads to learning and growth (YAY).
++1 for a person who is able to legitimately say 'I don't know' in an interview. This response often leads to discussion and further revelation. Also, I usually start jumping up and down when I meet someone who's able to discuss their failures. This is indicative of the ability to reflect, leading to learning and growth (YAY).
 
 
 #### 5. Evidence of grit/hard stuff
@@ -48,3 +48,8 @@ Unless your business requires you to regurgitate redundant algorithms on the fly
 #### 7. Evidence of creative outlet
 
 Does this person paint? Is this person excited and passionate about something outside of technology? People with other facets and dimensions have never been a bad thing in my experience.
+
+
+#### 8. Have a technical discussion
+
+SHOCKER: I don't think it's all that necessary to ask technical questions during the interview process (ie. write a method that does x). More importantly, have a technical discussion. For instance, "Tell me about that project you did."... "It seems like you're really excited about technology x. Why?" etc. Then go with it. You'll get a good idea about the interviewee's experience level. Also, it's fun and inspiring to see people come alive when they talk about their passion projects.
