@@ -42,7 +42,7 @@ Has this person done anything hard? Have they suffered with something? Learning 
 
 #### 6. Traditional interviews will never work in tech
 
-Unless your business requires you to regurgitate redundant algorithms on the fly, please don't ever ask a developer to write a binary search tree or merge sort in an interview. Just don't. It's condescending. My opinion is that people who are able to recall this type of information on the fly are more comfortable with an 'artificial' environment (like school, for example) and may not cope well in a more fluid environment. Sidebar: developers fresh out of a CS degree may cope just fine, but they’ve spent the greater part of their lives in an artificial environment, so I think cutting them a little slack here is probably the right thing to do. OR even better, never ask them to regurgitate!
+Unless your business requires you to regurgitate redundant algorithms on the fly, please don't ever ask a developer to write a binary search tree or merge sort in an interview. Just don't. It's condescending. My opinion is that people who are able to recall this type of information on the fly are more comfortable with an 'artificial' environment (like school, for example) and may not cope well in a more fluid environment. Sidebar: Developers fresh out of a CS degree (or such) may cope just fine, but they’ve spent the greater part of their lives in an artificial environment, so I think cutting them a little slack here is probably the right thing to do. OR even better, never ask them to regurgitate!
 
 
 #### 7. Evidence of creative outlet
