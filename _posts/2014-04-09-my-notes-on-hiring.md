@@ -17,7 +17,7 @@ My belief is that technical skill is important, but the following are WAY more i
 
 #### 1. Hire for empathy
 
-Everyone is different, but we often relate to each other based on our experiences. People who've had similar experiences in life are often more comfortable with each other. However, most of the time, there can be a fair chasm between what any two people have been through in their lives. In my experience, empathetic people are more capable of conceptualizing another person's point of view, even if it differs drastically from their own. They're able to question their own opinions, or in the least understand how another person could conceivable entertain a different viewpoint. This type of dynamic is hugely important in a team setting where open and constructive dialogue is necessary for growth.
+Everyone is different, but we often relate to each other based on our experiences. People who've had similar experiences in life are often more comfortable with each other. However, most of the time, there is a sizeable chasm between what any two people have been through in their lives. In my experience, empathetic people are more capable of conceptualizing another person's point of view, even if it differs drastically from their own. They're able to question their own opinions, or in the least understand how another person could conceivable entertain a different viewpoint. This type of dynamic is hugely important in a team setting where open and constructive dialogue is necessary for growth.
 
 
 #### 2. Watch out for feigned empathy
