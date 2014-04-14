@@ -17,7 +17,7 @@ My belief is that technical skill is important, but the following items are WAY 
 
 #### 1. Hire for empathy
 
-Everyone is different, but we often relate to each other based on our experiences. People who have had similar experiences in life are often more comfortable with each other. However, there is often a sizeable chasm between what any two people have been through in their lives. In my experience, an empathetic person is more capable of conceptualizing another person's point of view, even if it differs drastically from his or her own. Empathetic people able to question their own opinions, or in the very least understand how another person could conceivably entertain a different viewpoint. This type of dynamic is hugely important in a team setting where open and constructive dialogue is necessary for growth.
+Everyone is different, but we often relate to each other based on our experiences. People who have had similar experiences in life are often more comfortable with each other. However, there is often a sizeable chasm between what any two people have been through in their lives. In my experience, an empathetic person is more capable of conceptualizing another person's point of view, even if it differs drastically from his or her own. Empathetic people are able to question their own opinions, or in the very least understand how another person could conceivably entertain a different viewpoint. This type of dynamic is hugely important in a team setting where open and constructive dialogue is necessary for growth.
 
 
 #### 2. Watch out for feigned empathy
@@ -42,7 +42,7 @@ Has this person done anything hard? Have they suffered with something? Learning 
 
 #### 6. Traditional interviews will never work in tech
 
-Unless your business requires you to regurgitate redundant algorithms on the fly, please don't ever ask a developer to write a binary search tree or merge sort in an interview. Just don't. It's condescending. My opinion is that people who are able to recall this type of information on the fly are more comfortable with an 'artificial' environment (like school, for example) and may not cope well in a more fluid environment. Sidebar: Developers fresh out of a CS degree (or such) may cope just fine, but they’ve spent the greater part of their lives in an artificial environment, so I think cutting them a little slack here is probably the right thing to do. OR even better, never ask them to regurgitate!
+Unless your business requires you to regurgitate redundant algorithms on the fly, please don't ever ask a developer to write binary search or merge sort in an interview. Just don't. It's condescending. My opinion is that people who are able to recall this type of information on the fly are more comfortable with an 'artificial' environment (like school, for example) and may not cope well in a more fluid environment. Sidebar: Developers fresh out of a CS degree (or such) may cope just fine, but they’ve spent the greater part of their lives in an artificial environment, so I think cutting them a little slack here is probably the right thing to do. OR even better, never ask them to regurgitate!
 
 
 #### 7. Evidence of creative outlet
